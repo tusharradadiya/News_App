@@ -4,6 +4,5 @@
 
 <img src="https://user-images.githubusercontent.com/113609040/217153032-01b0edf5-1f5b-4083-bdc4-4ebee57e2c64.png" width=30% height=40%>
 
-<img src="https://user-images.githubusercontent.com/113609040/217153041-6d6897c7-991e-4adc-ad83-a10429664eb0.png" width=30% height=40%>
 
 </p>
