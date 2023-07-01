@@ -4,5 +4,6 @@
 
 <img src="https://user-images.githubusercontent.com/113609040/217153032-01b0edf5-1f5b-4083-bdc4-4ebee57e2c64.png" width=30% height=40%>
 
+<img src="https://github.com/tusharradadiya/News_App/assets/113609040/00b80c61-fcef-440f-b049-898e99e2fe05" width=100% height=100%>
 
 </p>
